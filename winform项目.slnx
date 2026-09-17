@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Winform界面开发入门/Winform界面开发入门.csproj" Id="6230925c-e81d-4a87-9973-352363962053" />
   <Project Path="学生管理系统/学生管理系统.csproj" Id="01b88bc0-f177-43c0-888e-14fd747fe3c3" />
+  <Project Path="控件的委托事件/控件的委托事件.csproj" Id="4baac4aa-16c7-4612-b5e3-363cc98be898" />
   <Project Path="登录界面/登录界面.csproj" Id="1854f0ec-61ce-40ab-8d08-f6f139a9493d" />
   <Project Path="记事本/记事本.csproj" Id="c81b9bc7-4ec2-4485-b128-033bdbefc487" />
   <Project Path="高校教务系统/高校教务系统.csproj" Id="9c5a0ffd-c2f7-4dd2-bad6-6e1a2afd599d" />
