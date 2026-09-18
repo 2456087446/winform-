@@ -1,4 +1,4 @@
-﻿namespace 自定义控件
+﻿namespace 自定义事件
 {
     partial class Form1
     {
@@ -28,19 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.userControl11 = new 自定义控件.UserControl1();
+            this.userControl11 = new 自定义事件.Control.UserControl1();
             this.SuspendLayout();
             // 
             // userControl11
             // 
-            this.userControl11.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.userControl11.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.userControl11.Location = new System.Drawing.Point(12, 12);
+            this.userControl11.Location = new System.Drawing.Point(13, 13);
             this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(743, 87);
+            this.userControl11.Size = new System.Drawing.Size(481, 70);
             this.userControl11.TabIndex = 0;
-            this.userControl11.UserControl1Name = "我是部分控件";
-            this.userControl11.Click += new System.EventHandler(this.userControl11_Click);
+            this.userControl11.LabelClick += new System.EventHandler(this.userControl11_LabelClick);
             // 
             // Form1
             // 
@@ -56,7 +53,7 @@
 
         #endregion
 
-        private UserControl1 userControl11;
+        private Control.UserControl1 userControl11;
     }
 }
 
