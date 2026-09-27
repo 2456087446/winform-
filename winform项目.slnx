@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="VideoLibrary类库/VideoLibrary类库.csproj" Id="f482c3d9-f4cd-46cf-818d-c7e6194f7d4e" />
+  <Project Path="WinformConnectSqlServer/WinformConnectSqlServer20260925.csproj" Id="f683da53-9c78-427c-8874-455a8d7c131b" />
   <Project Path="Winform界面开发入门/Winform界面开发入门.csproj" Id="6230925c-e81d-4a87-9973-352363962053" />
   <Project Path="学生管理系统/学生管理系统.csproj" Id="01b88bc0-f177-43c0-888e-14fd747fe3c3" />
   <Project Path="控件的委托事件/控件的委托事件.csproj" Id="4baac4aa-16c7-4612-b5e3-363cc98be898" />

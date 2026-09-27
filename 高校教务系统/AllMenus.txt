@@ -1,0 +1,22 @@
+[
+  {
+    "MenuText": "首页",
+    "MenuImage": "home",
+    "MenuPage": "HomePage"
+  },
+  {
+    "MenuText": "设置",
+    "MenuImage": "setting",
+    "MenuPage": "SettingPage"
+  },
+  {
+    "MenuText": "选课",
+    "MenuImage": "selection",
+    "MenuPage": "SelectionPage"
+  },
+  {
+    "MenuText": "关于",
+    "MenuImage": "about",
+    "MenuPage": "AboutPage"
+  }
+]
